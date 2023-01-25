@@ -155,3 +155,20 @@
   .testimonial-block {
     border-radius: 15px 15px 15px 15px;
   }
+
+  .her{
+    color: #9c24e1;
+  }
+
+  .gold{
+    color: #e1ce24;
+  }
+
+  .logo {
+    font-size: 60px;
+    font-family: "Exo";
+    line-height: 1.2;
+    letter-spacing: -1.2px;
+    text-transform: capitalize;
+    color: #222;
+  }
