@@ -41,7 +41,7 @@
 
   .testimonial-block.style-2 i {
     bottom: -20px;
-    color: #e1ce24;
+    color: #9c24e1;
     opacity: 0.3;
   }
 
@@ -69,6 +69,7 @@
     bottom: 20px;
     background: #e1ce24;
     padding: 48px;
+    opacity: 0.9;
   }
 
   .backtop {
@@ -80,11 +81,11 @@
   }
 
   .widget .footer-menu a:hover {
-    color: #e1ce24;
+    color: #9c24e1;
   }
 
   .widget-contact h6 i {
-    color: #e1ce24;
+    color: #9c24e1;
   }
 
   .navigation .dropdown-submenu.active > .dropdown-toggle,
@@ -98,4 +99,58 @@
   #navbarmain .nav-link:hover,
   #navbarmain .active .nav-link {
     color: #9c24e1;
+  }
+
+  a:focus, a:hover {
+    color: #9c24e1;
+    text-decoration: none;
+  }
+
+  .feature-item .feature-icon i {
+    color: #222;
+  }
+
+  .overlay:before {
+    background: #9c24e1;
+    opacity: 0.7;
+  }
+
+  .title-color {
+    color: #222;
+  }
+
+  .banner .block h1 {
+    color: #222;
+  }
+
+  .section-title h2 {
+    color: #222;
+  }
+
+  .feature-item h4 {
+    color: #222;
+  }
+
+  .appoinment-content img {
+    width: 85%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px 0px rgba(0, 42, 106, 0.1);
+  }
+
+  .cta:before{
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0px 0px 30px 0px rgba(0, 42, 106, 0.1);
+  }
+
+  .cta{
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0px 0px 30px 0px rgba(0, 42, 106, 0.1);
+  }
+
+  .service .service-item {
+    border-radius: 15px 15px 15px 15px;
+  }
+
+  .testimonial-block {
+    border-radius: 15px 15px 15px 15px;
   }
