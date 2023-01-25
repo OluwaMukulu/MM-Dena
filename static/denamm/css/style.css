@@ -1385,7 +1385,7 @@ a:focus {
 
 .backtop {
   position: fixed;
-  background: #223a66;
+  background: #9c24e1;
   z-index: 9999;
   display: inline-block;
   right: 55px;
@@ -1413,7 +1413,7 @@ a:focus {
   }
 }
 .backtop:hover {
-  background-color: #e12454;
+  background-color: #e1ce24;
 }
 .backtop i {
   color: #fff;
