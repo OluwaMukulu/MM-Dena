@@ -69,7 +69,8 @@
     bottom: 20px;
     background: #e1ce24;
     padding: 48px;
-    opacity: 0.9;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0px 0px 30px 0px rgba(0, 42, 106, 0.1);
   }
 
   .backtop {
