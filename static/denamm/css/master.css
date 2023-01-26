@@ -53,10 +53,6 @@
     color: #fff;
   }
 
-  #navbarmain .nav-link:hover,
-#navbarmain .active .nav-link {
-  color: #e1ce24;
-}
 
 .service i {
     color: #9c24e1;
@@ -87,14 +83,6 @@
 
   .widget-contact h6 i {
     color: #9c24e1;
-  }
-
-  .navigation .dropdown-submenu.active > .dropdown-toggle,
-  .navigation .dropdown-submenu:hover > .dropdown-item,
-  .navigation .dropdown-item.active,
-  .navigation .dropdown-item:hover {
-    background: rgba(225, 36, 84, 0.05);
-    color: #e1ce24;
   }
 
   #navbarmain .nav-link:hover,
@@ -171,4 +159,8 @@
     letter-spacing: -1.2px;
     text-transform: capitalize;
     color: #222;
+  }
+
+  .text-color-2 {
+    color: #e1ce24;
   }
